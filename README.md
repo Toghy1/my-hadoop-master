@@ -1,15 +1,5 @@
 # Hadoop课程代码
 
-- 代码涉及课程时间
-  - 2022年3-6月
-  - 2022年9-12月
-  - 2024年3-6月
-  - 2025年3-6月
-
-## 2022 课程
-[点此访问视频合集](https://space.bilibili.com/693033162/channel/collectiondetail?sid=237788)
-
-
 ## 工程目录
 
 - ch3-hdfs
